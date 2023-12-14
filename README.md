@@ -1,7 +1,7 @@
 # GitDoc Usage
 
 > **Priyanka Naidu** 
-<!-- > Is it working???  -->
+**is this working**
 
 > Use this repository as a test that you have the correct settings in [Visual Studio Code](https://code.visualstudio.com/) for using [GitDoc](https://aka.ms/gitdoc) in your school projects.
 
